@@ -1,0 +1,193 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MaximumSubArray",
+            "request": "launch",
+            "mainClass": "MaximumSubArray",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "BestTimeToBuySellStocks",
+            "request": "launch",
+            "mainClass": "BestTimeToBuySellStocks",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "Productarray",
+            "request": "launch",
+            "mainClass": "Productarray",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateNumbers",
+            "request": "launch",
+            "mainClass": "DuplicateNumbers",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "firstMissingNumber",
+            "request": "launch",
+            "mainClass": "firstMissingNumber",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "TwoSum",
+            "request": "launch",
+            "mainClass": "TwoSum",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "CheckAnagram",
+            "request": "launch",
+            "mainClass": "CheckAnagram",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "Transpose",
+            "request": "launch",
+            "mainClass": "Transpose",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "BST",
+            "request": "launch",
+            "mainClass": "BST",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "RivilCards",
+            "request": "launch",
+            "mainClass": "RivilCards",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "MergeTwoArrays",
+            "request": "launch",
+            "mainClass": "MergeTwoArrays",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "MajorityElement",
+            "request": "launch",
+            "mainClass": "MajorityElement",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "firstOccurance",
+            "request": "launch",
+            "mainClass": "firstOccurance",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "Equals",
+            "request": "launch",
+            "mainClass": "Equals",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "Fibinocci_series",
+            "request": "launch",
+            "mainClass": "Fibinocci_series",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateElement",
+            "request": "launch",
+            "mainClass": "DuplicateElement",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "Largest_Occuring_Element",
+            "request": "launch",
+            "mainClass": "Largest_Occuring_Element",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "Exceptions",
+            "request": "launch",
+            "mainClass": "Exceptions",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "Count_vowels",
+            "request": "launch",
+            "mainClass": "Count_vowels",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "StringOperations",
+            "request": "launch",
+            "mainClass": "StringOperations",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "Strings_in_Java",
+            "request": "launch",
+            "mainClass": "Strings_in_Java",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "Interfaces",
+            "request": "launch",
+            "mainClass": "Interfaces",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "Natural_numbers",
+            "request": "launch",
+            "mainClass": "Natural_numbers",
+            "projectName": "Java_5e119270"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)",
+            "request": "launch",
+            "mainClass": "${file}",
+            "args": []
+        }
+    ]
+}
